@@ -56,11 +56,11 @@ SOFTWARE.
 
 Following demo is for Tag0.mp4
 
-- [Input Video:](https://youtu.be/YyV61Fiu2Bo)
+- Input Video:
 
 ![ezgif com-gif-maker](https://github.com/rpande1996/Video_Correction/blob/master/media/gif/input.gif)
 
-- Output Video:
+- [Output Video:](https://youtu.be/YyV61Fiu2Bo)
 
 ![ezgif com-gif-maker](https://github.com/rpande1996/Video_Correction/blob/master/media/gif/output.gif)
 
